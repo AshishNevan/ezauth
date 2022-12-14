@@ -55,6 +55,7 @@ OTPspot
 - On your phone, install Google Authenticator or Authy from the app store
 - Scan the bar code on the screen to allow Google Authenticator on your phone to generate valid OTP codes. The same can be installed on multiple phones
 - Edit the configuration file config.py and restart the service
+	
 
 Configuration
 ===========
