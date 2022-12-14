@@ -1,0 +1,16 @@
+ssh pi@192.168.1.101 abcd1234
+python3 ezauthcvr.py
+
+verify totp before starting captive portal
+
+ssh root@192.168.1.1
+/etc/init.d/nodogsplash start
+
+/
+/dashboard
+/start
+
+fixes:
+sudo fuser -k xxxx/tcp
+cat /tmp/dhcp.leases
+
